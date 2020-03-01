@@ -18,6 +18,7 @@ def CountDownloadedGames():
                     TotalGameCount += 1
                     GameFileCount += 1
             print(f + " Game Count is: " + str(GameFileCount))
+            content.close()
     print("Total games: " + str(TotalGameCount))
 
 def SaveTitleData(data,name):
