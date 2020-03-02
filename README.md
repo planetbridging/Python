@@ -16,7 +16,7 @@ on cpelookup which combines data from [https://nvd.nist.gov/](https://nvd.nist.g
 
 For example we are looking up cpe:/a:lighttpd:lighttpd:1.4.2
 * It will show how many CVE and Exploits
-* Source code of the exploits with description name, date and author
+* Source code of the exploits with description, name, date and author
 
 Different port scanning setups
 * TCP_Port_Scanning_1.py
